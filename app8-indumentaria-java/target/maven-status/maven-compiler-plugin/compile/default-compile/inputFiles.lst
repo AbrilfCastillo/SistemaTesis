@@ -1,0 +1,13 @@
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/Main.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/db/ConexionDB.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/modelo/Producto.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/modelo/Usuario.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/ui/HistorialVentasPanel.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/ui/LoginFrame.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/ui/MainFrame.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/ui/ProductoDialog.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/ui/ProductosPanel.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/ui/RegistroDialog.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/ui/VentasPanel.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/util/PasswordUtil.java
+/home/abril/calidad-tp-8/app8-indumentaria-java/src/main/java/com/indumentaria/util/SeedData.java
